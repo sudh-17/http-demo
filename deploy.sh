@@ -4,4 +4,4 @@ cd $PROJ_PATH/http-demo-dir
 
 npm i
 
-npm run start
+npm run start2
