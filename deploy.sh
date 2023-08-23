@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-cd $PROJPATH/http-demo-dir
+cd $PROJ_PATH/http-demo-dir
 
 npm i
 
